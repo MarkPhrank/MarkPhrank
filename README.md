@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MarkPhrank
-- 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on JavaScript
+- 👀 I’m interested in Java
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on Java
 - 📫 How to reach me tyu25200@gmail.com
 
 <!---
